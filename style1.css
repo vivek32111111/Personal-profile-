@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+form{
+    /* position: absolute; */
+    text-align: center;
+}
+label{
+        margin: 33px 25px;
+        padding: 10px;
+}
